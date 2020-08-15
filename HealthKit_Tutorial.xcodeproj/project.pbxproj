@@ -13,6 +13,7 @@
 		92E4B2A824E771C40052A4AC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 92E4B2A724E771C40052A4AC /* Assets.xcassets */; };
 		92E4B2AB24E771C40052A4AC /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 92E4B2AA24E771C40052A4AC /* Preview Assets.xcassets */; };
 		92E4B2AE24E771C40052A4AC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 92E4B2AC24E771C40052A4AC /* LaunchScreen.storyboard */; };
+		92E4B2B624E774250052A4AC /* HealthStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92E4B2B524E774250052A4AC /* HealthStore.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		92E4B2AA24E771C40052A4AC /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		92E4B2AD24E771C40052A4AC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		92E4B2AF24E771C40052A4AC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		92E4B2B524E774250052A4AC /* HealthStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HealthStore.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				92E4B2A124E771C00052A4AC /* AppDelegate.swift */,
 				92E4B2A324E771C00052A4AC /* SceneDelegate.swift */,
 				92E4B2A524E771C00052A4AC /* ContentView.swift */,
+				92E4B2B524E774250052A4AC /* HealthStore.swift */,
 				92E4B2A724E771C40052A4AC /* Assets.xcassets */,
 				92E4B2AC24E771C40052A4AC /* LaunchScreen.storyboard */,
 				92E4B2AF24E771C40052A4AC /* Info.plist */,
@@ -149,6 +152,7 @@
 				92E4B2A224E771C00052A4AC /* AppDelegate.swift in Sources */,
 				92E4B2A424E771C00052A4AC /* SceneDelegate.swift in Sources */,
 				92E4B2A624E771C00052A4AC /* ContentView.swift in Sources */,
+				92E4B2B624E774250052A4AC /* HealthStore.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
